@@ -4,9 +4,7 @@ This is the basic "`Hello, World!`" program, written in Python.
 
 This was written simply to show an understanding of writing and demonstrating code, and adding code to [GitHub](https://github.com/).
 
-{Provide a link to your YouTube demonstration. It should be a one minute demo of the software running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/4TDUbwRXRb0)
 
 # Development Environment
 
